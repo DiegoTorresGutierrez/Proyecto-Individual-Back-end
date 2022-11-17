@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: #00ad13;
+    
+  }
+  
+  .fa-circle-check {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 8em;
+    margin-top: 15%;
+  }
+  
+  p {
+    color: #fff;
+    font-size: 2em;
+    font-family: Arial, Helvetica, sans-serif, cursive;
+  }
+  
+  a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+  
+  span {
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  span:hover {
+    color: #ccc;
+  }
